@@ -1,0 +1,78 @@
+body {
+   background: darkgray;
+   margin: 0;
+   font-family: sans-serif;
+}
+
+div{
+    box-sizing: border-box;
+}
+
+header h1 {
+    margin: 0;
+    text-align: center;
+}
+
+header {
+    background: #f4f4f4f4;
+    padding: 10px;
+}
+
+div .feed {
+    background: #f4f4f4f4;
+}
+
+div .container {
+    width: 600px;
+    margin: auto;
+}
+
+div .feed img {
+    width: 100%;
+}
+
+div .feed h2, div .feed p {
+    padding: 10px;
+    
+}
+
+/*div .feed .feed-title {
+    display: inline-flex;
+}
+
+div .feed .feed-title div:last-child { 
+    width: 20%;
+    text-align: right;
+}
+
+div .feed .feed-title div:first-child {
+    width: 80%;
+}*/
+
+.feed-title {
+    margin-top: 30px;
+    width: 100%;
+    height: 50px;
+}
+
+.feed-title .feed-title-element {
+    float: left;
+    width: 50%;
+    font-size: 20px;
+    padding: 12px;
+    
+}
+
+.right-aligment{
+    text-align: right;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+
+
+
+
+
